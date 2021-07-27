@@ -1,3 +1,5 @@
-num_real = 4.55
+num = input('Digite um número real: ')
 
-print(num_real)
+num_real = float(num)
+
+print(f'O número real é: {num_real}')

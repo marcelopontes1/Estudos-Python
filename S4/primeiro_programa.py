@@ -1,3 +1,5 @@
-num_int = 4
+num = input('Digite o número inteiro: ')
 
-print(num_int)
+num_int = int(num)
+
+print(f'O número inteiro é: {num_int}')
