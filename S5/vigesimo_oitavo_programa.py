@@ -48,11 +48,3 @@ if opcao >= 1 and opcao <= 4:
         print(f'O valor da media é {valor_media}')
 else:
     print('Opção inválida')
-    
-
-
-
-
-
-
-
