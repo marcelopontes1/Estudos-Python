@@ -11,7 +11,7 @@ Segue a ordem das seções e o que foi feito até o presente momento:
 - [X] Introdução a linguagem Python
 - [X] Variáveis e Tipos de Dados em Python
 - [X] Estruturas Lógicas e Condicionais em Python
-- [ ] Estruturas de Repetição em Python
+- [X] Estruturas de Repetição em Python
 - [ ] Coleções Python
 - [ ] Funções em Python
 - [ ] Comprehensions em Python
