@@ -9,7 +9,7 @@ Segue a ordem das seções e o que foi feito até o presente momento:
 - [X] Apresentação
 - [X] Preparando o ambiente
 - [X] Introdução a linguagem Python
-- [ ] Variáveis e Tipos de Dados em Python
+- [X] Variáveis e Tipos de Dados em Python
 - [ ] Estruturas Lógicas e Condicionais em Python
 - [ ] Estruturas de Repetição em Python
 - [ ] Coleções Python
