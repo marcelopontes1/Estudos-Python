@@ -13,7 +13,7 @@ Segue a ordem das seções e o que foi feito até o presente momento:
 - [X] Estruturas Lógicas e Condicionais em Python
 - [X] Estruturas de Repetição em Python
 - [X] Coleções Python
-- [ ] Funções em Python
+- [X] Funções em Python
 - [ ] Comprehensions em Python
 - [ ] Expressões Lambdas e Funções Integradas
 - [ ] Debugando e Tratando erros
