@@ -14,7 +14,7 @@ Segue a ordem das seções e o que foi feito até o presente momento:
 - [X] Estruturas de Repetição em Python
 - [X] Coleções Python
 - [X] Funções em Python
-- [ ] Comprehensions em Python
+- [X] Comprehensions em Python
 - [ ] Expressões Lambdas e Funções Integradas
 - [ ] Debugando e Tratando erros
 - [ ] Trabalhando com Módulos Python
