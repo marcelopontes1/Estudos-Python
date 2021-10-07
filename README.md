@@ -15,9 +15,9 @@ Segue a ordem das seções e o que foi feito até o presente momento:
 - [X] Coleções Python
 - [X] Funções em Python
 - [X] Comprehensions em Python
-- [ ] Expressões Lambdas e Funções Integradas
-- [ ] Debugando e Tratando erros
-- [ ] Trabalhando com Módulos Python
+- [X] Expressões Lambdas e Funções Integradas
+- [X] Debugando e Tratando erros
+- [X] Trabalhando com Módulos Python
 - [ ] Leitura e Escrita em Arquivos
 - [ ] Iteradores e Geradores Python
 - [ ] Decoradores em Python
